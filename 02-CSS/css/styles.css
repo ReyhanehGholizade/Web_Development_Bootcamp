@@ -1,0 +1,29 @@
+img {
+  border-radius: 50%;
+}
+
+body {
+  background-color: #f6f6f6;
+}
+
+hr {
+  /* if we want to have a nice dotted hr */
+
+  /* background-color: #ff5c8d;
+        height: 0px; */
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  /* border-color: #fc5185; */ /*main color*/
+  border-color: #ffc7c7;
+  border-width: 5px;
+}
+
+h1 {
+  /* color: #ff5c8d; */
+  color: #8785a2;
+}
+
+h3 {
+  color: #8785a2;
+}
