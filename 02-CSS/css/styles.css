@@ -1,40 +1,64 @@
 body {
-  background-color: #f6f6f6;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
 }
 
-hr {
-  /* if we want to have a nice dotted hr */
-
-  /* background-color: #ff5c8d;
-        height: 0px; */
-  width: 4%;
-  border-style: none;
-  border-top-style: dotted;
-  /* border-color: #fc5185; */ /*main color*/
-  border-color: #ffc7c7;
-  border-width: 5px;
-}
-
-#My-photo {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px "
-}
-
-#My-photo:hover {
-opacity: 0.7;
-}
-
-a{
-  text-decoration: none;
-  color: #3956a8;
+.top-container {
+  background-color: rgb(223, 250, 250);
+  position: relative;
+  width: 100%;
+  height: 520px;
+  padding-top: 150px;
 }
 
 h1 {
-  /* color: #ff5c8d; */
-  color: #8785a2;
+  margin-top: 0;
+  font-family: "Ms Madi", cursive;
+  font-size: 45px;
 }
 
+h2,
 h3 {
-  color: #8785a2;
+  font-family: "Montserrat", sans-serif;
+}
+
+.middle-container {
+  /* background-color: blue; */
+  /* height: 100px;
+  width: 100px; */
+}
+
+.My-img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.htmlcss-img {
+  padding-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+
+.js-img {
+  padding-top: 40px;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+}
+
+.top-cloud {
+  position: absolute;
+  right: 370px;
+  top: 40px;
+  padding-bottom: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 250px;
 }
