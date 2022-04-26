@@ -1,3 +1,4 @@
-# Web_Development_Bootcamp
-## The Complete Web Development Bootcamp follow up.
+## Web_Development_Bootcamp
+
 ![image](/course.PNG)
+### The Complete Web Development Bootcamp follow up.
